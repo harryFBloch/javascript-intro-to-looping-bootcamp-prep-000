@@ -9,7 +9,7 @@ function whileLoop(n){
 
 function doWhileLoop(array){
   do{
-    delete array[i]
+    array.indexOf()
   }while(array.length > 0 && incrementVariable())
   return array
 }
