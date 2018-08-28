@@ -9,7 +9,7 @@ function whileLoop(n){
 
 function doWhileLoop(array){
   do{
-    array.indexOf()
+    array.splice( array.indexOf(i))
   }while(array.length > 0 && incrementVariable())
   return array
 }
